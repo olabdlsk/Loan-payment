@@ -1,3 +1,3 @@
 Loan payment
 
-This module calculates a value of a loan.
+This module calculates a value of a monthly loan.
